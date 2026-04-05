@@ -1,0 +1,7 @@
+{
+    "block_hash": "000054fc9e43d8f28f22b9a183dff58fb7ab9552e5bd60701a15999da34d5a02",
+    "data": "Hello blockchain",
+    "pow_nonce": "NONCE-123440",
+    "starting_zeros": 16,
+    "time_seconds": 0.4731
+}
